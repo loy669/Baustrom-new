@@ -1,0 +1,41 @@
+[
+    {
+        "Bauvorhaben": "BV Meranerstr.",
+        "Verteilernummer": "030",
+        "Prüfdatum": "22.Apr 2024",
+        "Sichtprüfung OK": true,
+        "Unterschrift_im_Verteiler": true,
+        "Erstprüfung": true,
+        "Wiederholungsprüfung": true,
+        "Verteilerart": "Endverteiler_gross",
+        "Foto_Unterschrift": ,
+        "Foto_Verteilernummer": "http://176.95.206.254:8080/share.cgi?ssid=14b11ef5b4a74cedba91c467694fb6bd",
+        ]
+    },
+    {
+        "Bauvorhaben": "BV Adlerstr.",
+        "Verteilernummer": "233",
+        "Prüfdatum": "9.Mar 2024",
+        "Sichtprüfung_OK": true,
+        "Unterschrift_im_Verteiler": true,
+        "Erstprüfung": true,
+        "Wiederholungsprüfung": true,
+        "Verteilerart": "Endverteiler_klein",
+        "Foto_Unterschrift": ,
+        "Foto_Verteilernummer": "http://176.95.206.254:8080/share.cgi?ssid=9afcafa63b474a04aff96d46b36a6b7e",
+        ]
+    },
+    {
+        "Bauvorhaben": "BV Sachsendamm",
+        "Verteilernummer": "068",
+        "Prüfdatum": "22.Apr2024",
+        "Sichtprüfung OK": true,
+        "Unterschrift_im_Verteiler": true,
+        "Erstprüfung": true,
+        "Wiederholungsprüfung": true,
+        "Verteilerart": "Endverteiler_gross",
+        "Foto_Unterschrift": ,
+        "Foto_Verteilernummer": ,
+        ]
+    }
+]
